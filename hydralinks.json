@@ -10,7 +10,13 @@
 			"title":"The Elder Scrolls IV: Oblivion Remastered",
 			"uris":["magnet:?xt=urn:btih:3ZP2HAKSZOWDT7V5RV4RR6IOQU6LJO4Q&dn=The%20Elder%20Scrolls%20IV%20Oblivion%20Remastered%20(2006-2025)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"],
 			"uploadDate":"2025-04-22T23:00:00.000Z",
-			"fileSize":"128.08 GB"}
+			"fileSize":"128.08 GB"},
+
+			{
+				"title":"Resident Evil 7 (2017) PC",
+				"uris":["magnet:?xt=urn:btih:ZX7Q27WNYMDKYRIP5MCM2SN5L6DLIHHW&dn=Resident%20Evil%207%20(DX11)%20(2017)&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce"],
+				"uploadDate":"2023-04-27T23:00:00.000Z",
+				"fileSize":"39.3 GB"}
 	]
 
 }
