@@ -1,27 +1,13 @@
-{"name":"Stein Hydra Links",
-	"downloads":[
-		{
-			"title":"Cyberpunk 2077 v.2.21 Ultimate Edition - Xatab",
-			"uris":["magnet:?xt=urn:btih:44BK5PRN5GHFXBOCZXAPAEUNVY2GYUB2&dn=Cyberpunk%202077%20v.2.21%20(2020)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"],
-			"uploadDate":"2025-01-23T23:00:00.000Z",
-			"fileSize":"151.84 GB"},
-
-		{
-			"title":"The Elder Scrolls IV: Oblivion Remastered",
-			"uris":["magnet:?xt=urn:btih:3ZP2HAKSZOWDT7V5RV4RR6IOQU6LJO4Q&dn=The%20Elder%20Scrolls%20IV%20Oblivion%20Remastered%20(2006-2025)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"],
-			"uploadDate":"2025-04-22T23:00:00.000Z",
-			"fileSize":"128.08 GB"},
-
-		{
-			"title":"Resident Evil 7 Biohazard",
-			"uris":["magnet:?xt=urn:btih:ZX7Q27WNYMDKYRIP5MCM2SN5L6DLIHHW&dn=Resident%20Evil%207%20(DX11)%20(2017)&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce"],
-			"uploadDate":"2023-04-27T23:00:00.000Z",
-			"fileSize":"39.3 GB"}
-			{
-			"title":"Ready or Not",
-			"uris":["magnet:?xt=urn:btih:O3ZV56YF6FQ32FTGMSA3TIZQK5KQSCZC&dn=Ready%20or%20Not%20(2023)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"],
-			"uploadDate":"2025-03-01T23:00:00.000Z",
-			"fileSize":"61.71 GB"}	
+{
+	"name": "0xSHL",
+	"downloads": [
+	  {
+		"title": "Ready or Not v.71134 (Steam Version) - byXatab",
+		"uris": [
+		  "magnet:?xt=urn:btih:O3ZV56YF6FQ32FTGMSA3TIZQK5KQSCZC&dn=Ready%20or%20Not%20(2023)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+		],
+		"uploadDate": "2025-03-01T00:00:00.000Z",
+		"fileSize": "61.71 GB"
+	  }
 	]
-	
-}
+  }
